@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Add Page</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div>
+            <h1>Add Book</h1>
+            <p>
+                Please enter book details below:
+            </p>
+            <form action="AddBookServlet.do" method="POST">
+                <table>
+                    <tr>
+                        <td>Title : </td>
+                        <td><input type="text" name="title" required=""/></td>
+                    </tr>
+                    <tr>
+                        <td>Description</td>
+                        <td><input type="text" name="description" required=""/></td>
+                    </tr>
+                    <tr>
+                        <td>Price : </td>
+                        <td><input type="text" name="price" required=""/></td>
+                    </tr>
+                    <tr>
+                        <td>ISBN : </td>
+                        <td><input type="text" name="isbn" required=""/></td>
+                    </tr>
+                    <tr>
+                        <td>Number Of Pages : </td>
+                        <td><input type="text" name="numOfPages" required=""/></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <select name="illustrations">
+                                <option value="True">YES</option>
+                                <option value="False">NO</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td><input type="submit" value="ADD BOOK"/></td>
+                    </tr>
+                </table>
+            </form>
+        </div>
+    </body>
+</html>

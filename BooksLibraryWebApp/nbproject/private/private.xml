@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/calvin/NetBeansProjects/BooksLibraryWebApp/web/books_by_category_outcome.jsp</file>
+            <file>file:/Users/calvin/NetBeansProjects/BooksLibraryWebApp/src/java/za/ac/tut/web/MostExpensiveBookServlet.java</file>
+            <file>file:/Users/calvin/NetBeansProjects/BooksLibraryWebApp/web/find_outcome.jsp</file>
+            <file>file:/Users/calvin/NetBeansProjects/BooksLibraryWebApp/web/index.html</file>
+            <file>file:/Users/calvin/NetBeansProjects/BooksLibraryWebApp/web/start.html</file>
+            <file>file:/Users/calvin/NetBeansProjects/BooksLibraryWebApp/src/java/za/ac/tut/web/EditFinalBookServlet.java</file>
+            <file>file:/Users/calvin/NetBeansProjects/BooksLibraryWebApp/web/delete_outcome.jsp</file>
+            <file>file:/Users/calvin/NetBeansProjects/BooksLibraryWebApp/web/menu.html</file>
+            <file>file:/Users/calvin/NetBeansProjects/BooksLibraryWebApp/web/edit_outcome.jsp</file>
+            <file>file:/Users/calvin/NetBeansProjects/BooksLibraryWebApp/web/librarian_menu.jsp</file>
+            <file>file:/Users/calvin/NetBeansProjects/BooksLibraryWebApp/web/view_books.jsp</file>
+            <file>file:/Users/calvin/NetBeansProjects/BooksLibraryWebApp/src/java/za/ac/tut/web/BookByCategoryServlet.java</file>
+            <file>file:/Users/calvin/NetBeansProjects/BooksLibraryWebApp/web/book_by_category.jsp</file>
+            <file>file:/Users/calvin/NetBeansProjects/BooksLibraryWebApp/web/edit_book.jsp</file>
+            <file>file:/Users/calvin/NetBeansProjects/BooksLibraryWebApp/web/find_book.html</file>
+            <file>file:/Users/calvin/NetBeansProjects/BooksLibraryWebApp/web/most_expensive.jsp</file>
+        </group>
+    </open-files>
+</project-private>
